@@ -1,0 +1,1 @@
+reportConfigPath = C:\Users\Vignesh Ganesan\eclipse-workspace\EBAY\config\extent-configs.xml
